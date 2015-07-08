@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--任务列表样式-->
+    <dimen name="item_padding">10dp</dimen>
+    <dimen name="item_font_size">14sp</dimen>
+
+    <!--底部按钮文字大小-->
+    <dimen name="tab_font_size">18dip</dimen>
+
+    <!--添加任务样式-->
+    <dimen name="assign_add_padding">5dp</dimen>
+    <dimen name="margin_top">-100dp</dimen>
+
+</resources>
